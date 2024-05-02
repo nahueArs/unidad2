@@ -1,0 +1,10 @@
+archivo = 'SaldosActualizados.csv'
+
+with open(archivo,mode='w',newline='') as f:
+escritor = csv.writer(f)
+escritor.writerows(self.__Cuentas)
+class pedido
+def __lt__(self,otro):
+return self.__patente<otro.__patente
+
+class manejador():
